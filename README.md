@@ -14,7 +14,7 @@
 
 ---
 
-## 🇻🇳 THÔNG TIN CÁ NHÂN - PERSONAL INFO 🇻🇳
+## PERSONAL INFO ✨
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   
@@ -23,7 +23,7 @@
     <h3 style="color: #dc3545; margin-top: 15px; font-family: 'JetBrains Mono', monospace; font-size: 1.5em;">🔥 CODER CỦ CHI 🔥</h3>
   </div>
 
-  <div style="background-color: #e0f7fa; border: 3px solid #007bff; border-radius: 25px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.4); max-width: 450px; text-align: center; margin: 10px; display: flex; flex-direction: column; justify-content: space-around;">
+  <div style="background-color: #e0f7fa; border: 3px solid #007bff; border-radius: 25px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.4); max-width: 450px; text-align: center; margin: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=DC3545&multiline=true&width=400&height=250&lines=👤+Name:+Nguyễn+Thanh+Phúc;🌐+Bio:+phucdev.xo.je;🔥+Username:+Nguoibianhz;📅+Born:+07/10/2005;🚀+Status:+Coder+Củ+Chi;🇻🇳+Location:+Ho+Chi+Minh,+Vietnam;💖+Passion:+Coding+and+Innovation" alt="Personal Info Animation" style="margin-bottom: 20px;" />
     
     <div style="display: flex; justify-content: center; gap: 15px;">
