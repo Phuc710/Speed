@@ -23,7 +23,7 @@
 <table align="center">
   <tr>
     <td align="center" width="420">
-      <img src="https://note.wuaze.com/uploads/69096d9d2e894.gif" alt="Coding" width="100%" style="max-width:380px;"><br>
+      <img src="https://i.imghippo.com/files/ECgg9759vgk.gif" alt="Coding" width="100%" style="max-width:380px;"><br>
       <h3>🔥 CODER CỦ CHI 🔥</h3>
     </td>
     <td align="center" width="480">
